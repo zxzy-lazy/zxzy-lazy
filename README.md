@@ -15,16 +15,8 @@
 
 </div>
 
-## About
-
 - 挑むは、絶対強者。抗うは、強制運命。限界のその先へ──。
 - 滅竜(滅び/支配/いじわる)を大事にするタイプ
-
-## Tech Stack
-
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,vscode,visualstudio&theme=light" alt="Tech stack icons" />
-</div>
 
 ## Recent Focus
 
