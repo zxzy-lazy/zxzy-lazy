@@ -7,13 +7,7 @@
 ---
 
 <div align="center">
-
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](#)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)](#)
-
-
+    <img src="https://skillicons.dev/icons?i=java,python,cpp,cs,vscode,visualstudio&theme=light" alt="Tech stack icons" />
 </div>
 
 - 挑むは、絶対強者。抗うは、強制運命。限界のその先へ──。
