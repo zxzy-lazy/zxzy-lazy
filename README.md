@@ -31,9 +31,3 @@
 - 🗡️ 滅竜
 - 🔍 血族の情報収集
 - ☁️ 基地開発
-
-## Stats & Fun
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=zxzy-lazy&show_icons=true&title_color=B22222&icon_color=FF7F7F&text_color=2D2D2D&bg_color=ffffff&hide_border=true" alt="GitHub Stats" />
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zxzy-lazy&stroke=FF5F5F&ring=B22222&fire=FF7F7F&sideNums=000000&currStreakNum=B22222&currStreakLabel=000000&sideLabels=808080&dates=808080&background=FFFFFF" alt="GitHub Streak" />
